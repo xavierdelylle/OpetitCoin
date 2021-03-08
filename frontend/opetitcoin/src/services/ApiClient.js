@@ -2,7 +2,7 @@ import axios from "axios"
 
 export const apiClient = axios.create({
 
-    baseURL: 'http://localhost/apotheose/project-site-de-notation/backend/wordpress/'
+    baseURL: 'http://localhost/perso/project-site-de-notation/backend/wordpress/'
 
   
 });
