@@ -1,0 +1,1 @@
+/var/www/html/apotheose/project-site-de-notation/backend/wordpress/content/plugins/query-monitor/wp-content/db.php
