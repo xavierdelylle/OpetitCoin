@@ -1,5 +1,7 @@
 # Projet OpetitCoin
-site de notation de toilettes réalisé en février 2021 par Cécilia, Franck, Quentin et Xavier
+site de notation de toilettes réalisé en février 2021 par Cécilia, Franck, Quentin et Xavier.
+backend: Wordpress API Rest
+frontend: Vue.js et Sass
 
 ## Visuels
 ### page d'accueil
